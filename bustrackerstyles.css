@@ -1,0 +1,17 @@
+#container{
+    border-style: dotted;
+    border-left-color: #a30dcc;
+    
+}
+
+p{
+    border-style: dashed;
+    font-size: large;
+    color: blue;
+    border-color: #a30dcc;
+}
+#map{
+    border-style: dashed;
+    border-color: darkgreen;
+    height: 500px; width: 1000px;
+}
