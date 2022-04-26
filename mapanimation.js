@@ -2,7 +2,7 @@ let counter = 0;
 let marker;
 
 //creating the map in JS to disaply
-mapboxgl.accessToken = 'pk.eyJ1IjoicnlrZW5uZWR5IiwiYSI6ImNsMWxlbm84dzA5eHIzYm9mb2N4NXhzcmYifQ.JnmAHoOyY83R6C5k1mDOYQ';
+
 const map = new mapboxgl.Map({
 container: 'map', // what element to place map in
 style: 'mapbox://styles/mapbox/navigation-night-v1', // style URL
